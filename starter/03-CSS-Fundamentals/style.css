@@ -1,0 +1,41 @@
+/* Selector name {
+    property: value;
+}*/
+
+/* ELEMENT SELECTOR */
+/* header {
+  color: #099268;
+}
+
+article {
+  background-color: #099268;
+  color: #fff;
+}
+
+aside {
+  background-color: yellow;
+}
+
+footer {
+  background-color: red;
+}
+
+header {
+  background-color: brown;
+} */
+
+/* ID SELECTOR */
+
+/* #top-header {
+  background-color: green;
+}
+
+#heading {
+  background-color: yellow;
+} */
+
+/* Class Selector */
+
+/* .top-heading{
+    color: #f00;
+} */
